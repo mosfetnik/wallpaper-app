@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.002fc0bd.css","mappings":"AAAA,KAII,wBAAyB,CADzB,qBAAsB,CAEtB,uCAA4C,CAH5C,QAAW,CADX,SAKJ","sources":["global.css"],"sourcesContent":["body{\r\n    padding:0px;\r\n    margin :0px;\r\n    box-sizing: border-box;\r\n    background-color: #dfdfdf;\r\n    font-family: 'Times New Roman', Times, serif;\r\n}\r\n"],"names":[],"sourceRoot":""}
